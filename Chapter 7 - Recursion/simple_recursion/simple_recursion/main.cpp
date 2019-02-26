@@ -1,3 +1,5 @@
+// Simple recursive and iterative factorial function comparison.
+
 #include <iostream>
 #include <chrono>
 #include <cassert>
@@ -6,7 +8,7 @@ using namespace std::literals::chrono_literals;
 
 constexpr unsigned ITERATIONS = 1000;
 
-// Timer class calculates duration when in scope.
+// Timer class calculates duration while in scope.
 struct timer
 {
 	std::chrono::time_point<std::chrono::steady_clock> start, end;
