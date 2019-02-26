@@ -1,4 +1,4 @@
-# Programming_Interviews_Exposed
+# Programming Interviews Exposed
 ## C++ solutions to problems in the book "Programming Interviews Exposed"
 
 Solutions in C++ to selected problems from the book "Programming Interviews Exposed: Secrets to Landing Your Next Job", 3rd Edition. 
